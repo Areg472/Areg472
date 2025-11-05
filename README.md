@@ -1,6 +1,6 @@
 ## Welcome to my bio! :3
 
-I am Areg, a dev and video editor.
+I am Areg, a dev and a video editor.
 
 I like doing some development, which includes [**Ocean+**](https://github.com/Areg472/ocean-plus-react) which a cool streaming website for certain animations. I support FOSS and open source projects, such as Magisk, Breezy Weather, and Smartspacer.
 
