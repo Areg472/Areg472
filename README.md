@@ -2,7 +2,7 @@
 
 I am Areg, a smol web dev.
 
-I like doing some development, which includes [**Ocean+**](https://github.com/Areg472/ocean-plus-react) which a cool streaming website for certain animations. I support FOSS and open source projects, such as Magisk, Breezy Weather, and Smartspacer.
+I like doing some development, which includes [**SpotiMetro**](https://github.com/Areg472/metro-spotify-gen) which a cool tracklist generator for metro trips. I support FOSS and open source projects, such as Magisk, Breezy Weather, and Smartspacer.
 
 Love y'all <3
 
